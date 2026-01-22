@@ -157,4 +157,8 @@
     </div>
     <div class="card">
       <h3>Trafik Kazası & Hasar</h3>
-      <p>Maddi – bedensel zararlar, değer kaybı ve sigorta uyu
+      <p>Maddi – bedensel zararlar, değer kaybı ve sigorta uyuşmazlıkları
+  "framework": null,
+  "routes": [
+    { "src": "/(.*)", "dest": "/index.html" }
+  ]
