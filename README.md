@@ -1,4 +1,6 @@
 # -sahin-hukuk
+/index.html
+/vercel.json  
 <!DOCTYPE html>
 <html lang="tr">
 <head>
